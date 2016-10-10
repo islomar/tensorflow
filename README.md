@@ -46,6 +46,12 @@ The training's objective is to make the cross entropy as small as possible, so y
 # ls /tensorflow/tensorflow/examples/image_retraining/
 ```
 
+
+##Neural networks and deep learning
+http://neuralnetworksanddeeplearning.com/index.html
+
+
+
 ##Glossary
 * **Convolution**
 In mathematics (and, in particular, functional analysis) convolution is a mathematical operation on two functions (f and g); it produces a third function, that is typically viewed as a modified version of one of the original functions, giving the integral of the pointwise multiplication of the two functions as a function of the amount that one of the original functions is translated.
